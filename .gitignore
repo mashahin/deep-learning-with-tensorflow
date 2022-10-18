@@ -1,0 +1,6 @@
+*checkpoints
+.git
+*tensorflow*
+model*
+
+
